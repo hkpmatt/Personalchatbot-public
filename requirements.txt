@@ -1,0 +1,11 @@
+langchain==0.0.277
+python-dotenv==1.0.0
+streamlit==1.26.0
+openai==0.27.10
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+sentence_transformers==2.2.2
+tenacity==8.2.0
+python-dotenv
+asyncio
+datasets==2.20.0
